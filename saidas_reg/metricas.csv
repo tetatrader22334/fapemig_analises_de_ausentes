@@ -1,0 +1,2 @@
+ols_R2_CV,ols_MAE_CV,ols_RMSE_CV,ridge_R2_CV,ridge_MAE_CV,ridge_RMSE_CV,R2_in,MAE_in,RMSE_in,n_preditores,n_obs,cv_por_ops
+-6460503.018,2.865,136.874,-5060261.805,2.62,125.188,0.031,0.082,0.111,33,12412,True
