@@ -26,7 +26,7 @@ Base na forma final, ajustada para a regressão.
 # diálogos_com_o_robozinho
 Conversas com o GPT para chegar a toda essa parafernalha.
 
-*** TODO ***
+# *** TODO ***
 - Montar base 2009 até 2016 
 - Montar base 2017 até 2024 
 - Realizar análises visuais 
