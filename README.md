@@ -17,7 +17,7 @@ Contém os códigos rodados, para reproduzir as análises que geram os relatóri
 # testa_continuidade_prestador_de_saude
 Código que gera os relatórios contidos em nulos_consolidados.
 
-#ols_reg_ridge
+# ols_reg_ridge
 Contém o código para rodar a regressão.
 
 # base_2001_2008
