@@ -15,7 +15,7 @@ A primeira melhoria, acredito, está na redução de dimensionalidade e um proxy
 Contém os códigos rodados, para reproduzir as análises que geram os relatórios contidos na pasta faltantes_por_ops.
 
 -- testa_continuidade_prestador_de_saude
-Cógido que gera os relatórios contidos em nulos_consolidados.
+Código que gera os relatórios contidos em nulos_consolidados.
 
 -- ols_reg_ridge
 Contém o código para rodar a regressão.
@@ -23,4 +23,14 @@ Contém o código para rodar a regressão.
 -- base_2001_2008
 Base na forma final, ajustada para a regressão.
 
+-- Diálogos com o robozinho
+Conversas com o GPT para chegar a toda essa parafernalha.
 
+*** TODO ***
+Montar base 2009 até 2016
+Montar base 2017 até 2024
+Realizar análises visuais
+Realizar análises não supervisionadas: clusterizações por perfil financeiro (k_means, GMM, hdbsscan), análise de latentes (PCA e análise fatorial), 
+Incluir rótulos para análises supervisionadas: risco_de_encerramento (logit, ridge e lasso, XGBoost), previsão_de_indicadores (Ridge, GBM, Arimax), 
+Corrirgir bug de decimais nas coluna (DADOS_CONTAB_AUSENTES e qualquer outro rótulo que não for possível manipular sabe-se lá por quê) e ajustar a precisão para 5 casas
+Incluir aqui todas as informações que faltam para ficar suficiente claro.
