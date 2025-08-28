@@ -27,7 +27,7 @@ Base na forma final, ajustada para a regressão.
 Conversas com o GPT para chegar a toda essa parafernalha.
 
 *** TODO ***
-Montar base 2009 até 2016 /n
+Montar base 2009 até 2016 
 Montar base 2017 até 2024 
 Realizar análises visuais 
 Realizar análises não supervisionadas: clusterizações por perfil financeiro (k_means, GMM, hdbsscan), análise de latentes (PCA e análise fatorial) 
