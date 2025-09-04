@@ -27,6 +27,7 @@ Base na forma final, ajustada para a regressão.
 Conversas com o GPT para chegar a toda essa parafernalha.
 
 # *** TODO ***
+- Montar base 2001 até 2008
 - Montar base 2009 até 2016 
 - Montar base 2017 até 2024 
 - Realizar análises visuais 
